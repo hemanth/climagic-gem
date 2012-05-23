@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+require 'climagic'
+puts CliMagic.cmd()
+
+
